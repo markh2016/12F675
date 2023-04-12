@@ -33,6 +33,8 @@ https://www.freecad.org/downloads.php
 
 Couldnt think of anything else you need plus there is the full xc8 project files and diagrams for connecting pickit-3 
 Instructions for this are nicley detailed on this site 
+
+
 https://alselectro.wordpress.com/2020/06/25/getting-started-with-programming-pic-12f675
 
 
